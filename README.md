@@ -4,7 +4,7 @@ Obsahuje **zatím**:
 * Základ designu
   * * Obrázky
   * * Barvy [tady](https://seznam.cz)
-* Text o [x] @Štěpánovi 
+* Text o [x] @stepanklein 
 ``<p> Stepan je gej </p>``
 ![Kačenka](/OBR.png)
 
