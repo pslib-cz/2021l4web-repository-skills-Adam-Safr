@@ -2,12 +2,15 @@
 Obsahuje **zatím**:
 * Ahoj světe
 * Test 
- * * Odkaz na info [info](https://pslib-cz.github.io/2021l4web-repository-skills-Adam-Safr/info.html)
+
+Odkaz na info [info](https://pslib-cz.github.io/2021l4web-repository-skills-Adam-Safr/info.html)
+
 Změna | Popis
 ----- | -----
 16. 9. 2021 | vytvořeno
 17. 9. 2021 | přidáno
- * * Kód ```<!DOCTYPE html>
+
+Kód ```<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -19,6 +22,8 @@ Změna | Popis
     <p class="info">Toto je info</p>
 </body>
 </html>```
+
+
 * Základ designu
   * * Obrázky
   * * Barvy
