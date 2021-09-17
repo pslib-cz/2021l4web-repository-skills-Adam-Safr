@@ -4,6 +4,8 @@ Obsahuje **zatím**:
 * Základ designu
   * * Obrázky
   * * Barvy [tady](https://seznam.cz)
-* Text 
+* Text o [x] @Štěpánovi 
 ``<p> Stepan je gej </p>``
 ![Kačenka](/OBR.png)
+
+:+1: :camel: :tada: :octocat:
