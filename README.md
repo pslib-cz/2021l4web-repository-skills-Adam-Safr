@@ -10,7 +10,8 @@ Odkaz na info [info](https://pslib-cz.github.io/2021l4web-repository-skills-Adam
 16. 9.'21 | vytvořeno
 17. 9.'21 | přidáno
 
-Kód ```<!DOCTYPE html>
+Kód ```
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -21,7 +22,8 @@ Kód ```<!DOCTYPE html>
 <body>
     <p class="info">Toto je info</p>
 </body>
-</html>```
+</html>
+```
 
 
 * Základ designu
