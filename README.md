@@ -1,5 +1,8 @@
 # Můj super web
-Obsahuje zatím:
+Obsahuje **zatím**:
 * Ahoj světe
 * Základ designu
-:+1:
+  * * Obrázky
+  * * Barvy [tady](https://seznam.cz)
+* Text 
+``<p> Stepan je gej </p>``
