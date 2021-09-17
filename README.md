@@ -7,8 +7,8 @@ Odkaz na info [info](https://pslib-cz.github.io/2021l4web-repository-skills-Adam
 
 **Změna** | **Popis**
 --------- | ---------
-16. 9.'21 | vytvořeno
-17. 9.'21 | přidáno
+16.9.'21 | vytvořeno
+17.9.'21 | přidáno
 
 ``` Kód
 <!DOCTYPE html>
