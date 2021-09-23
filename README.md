@@ -3,7 +3,7 @@ Obsahuje **zatím**:
 * Ahoj světe
 * Test 
 
-Odkaz na info [info](https://pslib-cz.github.io/2021l4web-repository-skills-Adam-Safr/info.html)
+Odkaz na [info](https://pslib-cz.github.io/2021l4web-repository-skills-Adam-Safr/info.html)
 
 **Změna** | **Popis**
 --------- | ---------
